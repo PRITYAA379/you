@@ -1,5 +1,7 @@
 {
-  "name": "DIGITALCONFVISIONS",
+  "name": "Copy of DIGITALCONFVISIONS",
   "description": "A conversational AI chatbot and interactive learning hub for DIGITALCONFVISIONS.",
-  "requestFramePermissions": []
+  "requestFramePermissions": [
+    "microphone"
+  ]
 }
